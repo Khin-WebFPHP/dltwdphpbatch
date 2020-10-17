@@ -20,7 +20,7 @@ echo $num1*$num2;
 echo "<br/>";
 echo $num1/$num2;
 echo "<br/>";
-echo (10<1) ? "true":"false";
+echo (11==11) ? "true":"false";
 echo "<hr/>";
 $a=10;
 $b=20;

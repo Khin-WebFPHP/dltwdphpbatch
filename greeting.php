@@ -12,7 +12,7 @@ if($hour<12){
 }elseif($hour<18){
     echo "Good Afternoon";
 }elseif($hour<22){
-echo "Good Evenint";
+echo "Good Evening";
 }else{
     echo "Good Night";
 }

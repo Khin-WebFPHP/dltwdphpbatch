@@ -12,7 +12,7 @@ if($val=="red"){
  if($val=="red"){
      echo "my fav color is red"."/"."input value is"." ". $val;
  }else{
-     echo "my fav color is red"."/"."but input value is"." ". $val;
+     echo "my fav color is  not red"."/"."but input value is"." ". $val;
  }
  echo "<hr/>";
  /*this is comment line1

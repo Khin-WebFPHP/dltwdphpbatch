@@ -25,6 +25,10 @@ echo "<hr/>";
 
 echo $val3[2]["name"];
 echo "<hr/>";
+foreach($val1 as $x=>$data){
+    echo $x. "<br/>";
+}
+echo "<hr/>";
 foreach($val1 as $data){
     echo $data. "<br/>";
 }
