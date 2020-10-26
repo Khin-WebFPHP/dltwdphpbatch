@@ -78,7 +78,7 @@ $val="morning";
 echo $val;
 echo "<br/>";
 function greeting(){
-    return "Ha we just accept only numric";
+    return "Hay we just accept only numric";
 }
 function morning(){
     return "hay i am morning";
