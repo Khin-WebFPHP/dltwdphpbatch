@@ -30,7 +30,7 @@ foreach($val1 as $x=>$data){
 }
 echo "<hr/>";
 foreach($val1 as $data){
-    echo $data. "<br/>";
+    echo $data. "<br/>";//manual array print out by foreach loop
 }
 echo "<hr/>";
 echo "Ass Array". "<br/>";
@@ -41,7 +41,10 @@ foreach($val2 as $key=>$value){
 echo "<hr/>";
 foreach($val3 as $multi){
     foreach($multi as $a=>$b){
+         echo $a;
         echo $b. "<br/>";
+       
+
     }
 }
 ?>

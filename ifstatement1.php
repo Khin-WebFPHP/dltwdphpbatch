@@ -53,6 +53,10 @@ switch ($num1) {
         echo "input value is not 10 and 20"."value is". $num1;
         
 }
+echo "<hr/>";
+if(! $num1>$num2){
+    echo "$num1 is not equal  $num2 ";
+}
 
 
 
